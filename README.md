@@ -48,3 +48,15 @@ abrí Visual Studio Code y verifiqué que el repositorio se clonó correctamente
 | Formato     | Explica primero la estructura de la clase y luego presenta el codigo Java                           |
 
 ## Ejercicio 6: Del prompt basico al profesional
+
+Actua como desarrollador Java. Crea un ejemplo de login para una aplicacion de escritorio utilizando Swing. El usuario debe ingresar correo y contrasena. Explica brevemente el funcionamiento y presenta el codigo organizado por clases.
+
+Mejora el codigo anterior con estas restricciones: no uses librerias externas, valida que el correo contenga @ y que la contrasena tenga al menos 8 caracteres, y muestra los mensajes con JOptionPane.[cite: 1]
+
+- [Bitacora de prompts](prompts/BITACORA.md)
+
+# Tarea: Mi prompt profesional
+
+## Funcionalidad elegida
+
+Gestión de registro de clientes para un sistema de ventas.
